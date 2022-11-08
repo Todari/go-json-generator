@@ -39,7 +39,7 @@ func main() {
 		// result.Properties.Files = make([]Files, 1)
 
 		result.Symbol = "WCREW"
-		result.Description = "Join the Whowho Crew!\nThis is an NFT project with Whowho Crew.\nExplore the sea of virtual assets with Whowho Crew!"
+		result.Description = "Join the Whowho Crew!\nExplore the sea of virtual assets with Whowho Crew!"
 		// result.Attributes[0].Trait_type = "legend"
 		// result.Attributes[0].Value = strings.Split(traitArr[0], "#")[0]
 		// result.Attributes[1].Trait_type = "background"
